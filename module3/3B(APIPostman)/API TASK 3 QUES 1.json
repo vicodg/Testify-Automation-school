@@ -1,0 +1,15 @@
+{
+	"id": "9fa6ac00-5528-465f-8b09-54495046b592",
+	"values": [
+		{
+			"key": "ODG1",
+			"value": "https://www.linkedin.com/in/victor-odogwu-63325abb/",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-04-24T11:15:52.764Z",
+	"_postman_exported_using": "Postman/10.24.18"
+}
