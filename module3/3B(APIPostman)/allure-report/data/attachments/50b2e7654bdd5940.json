@@ -1,0 +1,10 @@
+{
+    "Authorization": "Bearer 1a4c6a3a07a48a670092fd8845146170229c0203e85f36aad8dcdbbe363d90b9",
+    "User-Agent": "PostmanRuntime/7.37.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "ef2be0eb-2893-4d96-9509-c83b9697537f",
+    "Host": "simple-books-api.glitch.me",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

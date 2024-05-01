@@ -1,0 +1,10 @@
+iteration,collectionName,requestName,method,url,status,code,responseTime,responseSize,executed,failed,skipped,totalAssertions,executedCount,failedCount,skippedCount
+"1","API Collection","Get Status","DELETE","https://simple-books-api.glitch.me/","Not Found","404","564","142",,"Status code is 204, Status code name has string",,"2","0","2","0"
+"1","API Collection","Register an API Client","POST","https://simple-books-api.glitch.me/api-clients/","Conflict","409","114","65",,,,"0","0","0","0"
+"1","API Collection","Get Books","GET","https://simple-books-api.glitch.me/books","OK","200","115","417",,,,"0","0","0","0"
+"1","API Collection","Get a single book","GET","https://simple-books-api.glitch.me/books/1","OK","200","153","161",,,,"0","0","0","0"
+"1","API Collection","Place a book order","POST","https://simple-books-api.glitch.me/orders","Created","201","233","50",,,,"0","0","0","0"
+"1","API Collection","Get all orders","GET","https://simple-books-api.glitch.me/orders","OK","200","185","2367",,,,"0","0","0","0"
+"1","API Collection","Get an order","GET","https://simple-books-api.glitch.me/orders/2oQH1IwiyBIoc54QW4Bqy","Unauthorized","401","185","33",,,,"0","0","0","0"
+"1","API Collection","Update an order","PATCH","https://simple-books-api.glitch.me/orders/2oQH1IwiyBIoc54QW4Bqy/","Unauthorized","401","108","33",,,,"0","0","0","0"
+"1","API Collection","Delete an order","DELETE","https://simple-books-api.glitch.me/orders/:orderId","Unauthorized","401","113","41",,,,"0","0","0","0"

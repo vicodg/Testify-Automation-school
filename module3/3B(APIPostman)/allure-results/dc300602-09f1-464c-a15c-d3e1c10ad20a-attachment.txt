@@ -1,0 +1,6 @@
+    var jsonData = pm.response.json();
+console.log(jsonData);
+console.log(jsonData[0].id);
+
+
+pm.environment.set("odogwusbookid", jsonData[0].id);
