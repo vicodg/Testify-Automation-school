@@ -1,0 +1,19 @@
+{
+    "Date": "Wed, 08 May 2024 11:23:56 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-envoy-upstream-service-time": "63",
+    "access-control-allow-credentials": "true",
+    "sib-request-id": "e84fb7ac-5aa0-9886-9e6e-5a86f17796a2",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "PUT, POST, GET, DELETE, PATCH, OPTIONS",
+    "x-sib-server": "BREVO-srv-pr-online-rancher-worker-112",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1",
+    "CF-Cache-Status": "DYNAMIC",
+    "Server": "cloudflare",
+    "CF-RAY": "8809149c9c8593e5-LHR",
+    "Content-Encoding": "gzip"
+}

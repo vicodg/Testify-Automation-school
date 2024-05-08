@@ -1,0 +1,21 @@
+{
+    "message": "Not valid data.",
+    "data": [
+        {
+            "field": "taskTypeId",
+            "message": "This value should not be null."
+        },
+        {
+            "field": "taskTypeId",
+            "message": "Not Valid Id format."
+        },
+        {
+            "field": "name",
+            "message": "This value should not be blank."
+        },
+        {
+            "field": "date",
+            "message": "This value should not be blank."
+        }
+    ]
+}

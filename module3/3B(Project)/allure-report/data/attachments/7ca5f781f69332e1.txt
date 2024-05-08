@@ -1,0 +1,7 @@
+{
+"name": "BLACKLIST",
+            "category": "global",
+            "type": "float",
+            "calculatedValue": "COUNT[BLACKLISTED,BLACKLISTED,<,NOW()]"
+
+}

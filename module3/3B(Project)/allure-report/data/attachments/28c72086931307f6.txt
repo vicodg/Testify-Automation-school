@@ -1,0 +1,29 @@
+"id": 22,
+  "name": "Weekly - 1",
+  "subject": "Week 1 - Newsletter",
+  "type": "classic",
+  "status": "draft",
+  "scheduledAt": "2017-09-22T12:30:00.000Z",
+  "testSent": false,
+  "header": "[DEFAULT_HEADER]",
+  "footer": "[DEFAULT_FOOTER]",
+  "sender": {
+    "email": "newsletter@mycompany.com",
+    "name": "Newsletter",
+    "id": 26
+  },
+  "replyTo": "replyto@domain.com",
+  "toField": "{FNAME} {LNAME}",
+  "htmlContent": "This is my HTML Content",
+  "shareLink": "http://dhh.sendinblue.com/fhsgccc.html?t=9865448900",
+  "tag": "Newsletter",
+  "createdAt": "2017-05-01T12:30:00.000Z",
+  "modifiedAt": "2017-05-01T12:30:00.000Z",
+  "inlineImageActivation": true,
+  "mirrorActive": true,
+  "recurring": false,
+  "recipients": {
+    "lists": [
+      22
+    ],
+   

@@ -1,0 +1,9 @@
+{
+   "id": "663294a74863cb174a25596d",
+        "text": "This is a note example. Use the Deal page to centralize crucial information, streamline communication, and gain a clear overview of your business opportunities. It's your go-to for maximizing efficiency and driving successful deals. Happy selling!",
+        "contactIds": null,
+        "companyIds": null,
+        "dealIds": [
+            "663294a74863cb174a25596c"
+        ]
+}

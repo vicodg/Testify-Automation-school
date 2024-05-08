@@ -1,0 +1,10 @@
+{
+    "Accept": "application/json",
+    "api-key": "{{api-key}}",
+    "User-Agent": "PostmanRuntime/7.37.1",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "36222429-6740-4abb-89df-08537a3f068c",
+    "Host": "api.brevo.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
