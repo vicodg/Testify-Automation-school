@@ -6,6 +6,7 @@ public class Task2 {
         float area = 12365756F;
         char gender = 'M';
         boolean flag = true;
+        System.out.println(gender);
 
 
 
