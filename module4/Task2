@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+
+            int number = 42;
+            float area = 3.143F ;
+            long system = 8000000;
+            boolean black = true;
+            char option = 'a' ;
+            boolean life = true;
+            System.out.println("area");
+
+        }
+    }
+}
