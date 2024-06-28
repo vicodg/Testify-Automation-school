@@ -20,5 +20,7 @@ public class Task6 {
         Thread.sleep(3000);
         driver.findElement(By.cssSelector("#checkout")).click();
 
+        driver.quit();
+
     }
 }
