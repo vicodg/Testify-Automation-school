@@ -2,7 +2,7 @@
 <suite name="Testify Test Suite">
     <test name="Task 17">
         <classes>
-            <class name="Task17"/>
+            <class name="Project17.Task17"/>
             <class name="Task17b"/>
             <class name="Task17c"/>
             <class name="Task17d"/>

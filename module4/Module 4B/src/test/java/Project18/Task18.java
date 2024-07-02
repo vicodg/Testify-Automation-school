@@ -1,3 +1,5 @@
+package Project18;
+
 import org.example.Task18a;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
